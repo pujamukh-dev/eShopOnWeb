@@ -1,4 +1,5 @@
-﻿using System.Net.Mime;
+﻿//Testing branch policy
+using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
 using BlazorAdmin;
